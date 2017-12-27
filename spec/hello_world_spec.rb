@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../hello'
+require_relative '../hello_world'
 
 RSpec.describe 'HelloWorld' do
 

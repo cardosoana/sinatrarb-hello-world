@@ -13,4 +13,4 @@ COPY . /app
 ENV PORT 4567
 EXPOSE 4567
 
-CMD ruby hello.rb
+CMD ruby hello_world.rb
