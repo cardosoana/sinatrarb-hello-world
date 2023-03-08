@@ -1,10 +1,13 @@
 GEM
+  specs:
+
+GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.4.4)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    rack (2.1.4)
+    rack (2.1.4.3)
     rack-protection (2.0.8.1)
       rack
     rack-test (1.1.0)
