@@ -1,7 +1,7 @@
 source 'https://rubygems.org' do
 
-  gem 'sinatra', '~> 2.0.5'
-  gem "rack", '~> 2.1.4'
+  gem 'sinatra', '~> 3.0.4'
+  gem "rack", '~> 2.2.4'
 
   group :test do
     gem "rspec"
