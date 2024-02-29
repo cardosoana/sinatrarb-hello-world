@@ -7,7 +7,7 @@ GEM
     diff-lcs (1.4.4)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.4)
+    rack (2.2.8.1)
     rack-protection (3.0.4)
       rack
     rack-test (1.1.0)
@@ -37,7 +37,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack (~> 2.2.4)!
+  rack (~> 2.2.8)!
   rack-test!
   rspec!
   sinatra (~> 3.0.4)!
